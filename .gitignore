@@ -62,3 +62,4 @@ glyphs/*.js
 package-lock.json
 private.toml
 private.mk
+yarn.lock
