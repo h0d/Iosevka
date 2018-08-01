@@ -235,3 +235,18 @@ oblique = "oblique"
 # oblique = ["oblique-only", "styles"]   # Oblique-only styles
 # weights = ["regular", "bold"]          # Build only regular and bold fonts
 # slants = ["upright", "italic"]         # Build only upright and italic fonts
+
+# h0d: custom
+[buildPlans.h0d]
+family = "Iosevka"
+design = [
+    "sans",
+    "expanded",
+    "v-zero-dotted",
+    "v-one-serifed",
+    "v-asterisk-low",
+    "v-caret-low",
+    "v-underscore-low",
+    "v-at-short",
+    "v-numbersign-slanted"
+]
